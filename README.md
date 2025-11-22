@@ -1,6 +1,5 @@
 - Hi, I’m Muhammad Ramzan
 - I’m intrested in Data Science, Python Development, Machine Learning, Web Development, and solving real-world problems through code.
-- I’m currently learning ...
 - I’m currently learning:
   Advanced Python, Data Analysis, Machine Learning algorithms, and JavaScript for interactive web applications
 - How to reach me. Email: muhammadramzan5862@gmail.com
